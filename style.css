@@ -1,0 +1,21 @@
+.full{
+    background: linear-gradient(to left, #d1d1d8, hwb(268 4% 42%));
+}
+.intro{
+    text-align: center;
+    text-decoration: underline;
+}
+.paragraph{
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.image{
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin: 40px;
+    width: 70px;
+    height: 70px;
+    border-radius: 25px;
+}
+
